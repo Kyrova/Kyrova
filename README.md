@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Kyrova
 - 👀 I’m interested in coding, making art, zoology and languages
-- 🌱 I’m currently learning c++
-- 📫 How to reach me: aurinkohare@gmail.com
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: 
+- 📫 How to reach me: kyrova@proton.me
+- 😄 Pronouns: he/they
 
 <!---
 Kyrova/Kyrova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
