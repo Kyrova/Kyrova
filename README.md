@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kyrova
 - 👀 I’m interested in coding, making art, zoology and languages
 - 📫 How to reach me: kyrova@proton.me
-- 😄 Pronouns: he/they
+- 😄 Pronouns: he/him
 
 <!---
 Kyrova/Kyrova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
